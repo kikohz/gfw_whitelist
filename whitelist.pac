@@ -56,6 +56,21 @@ var RULES = [
     ],
     //custom-list
     [
+        ".zealer.com"
+        ".knewone.com"
+        ".dgtle.com"
+        ".v2ex.com"
+        ".iplaysoft.com"
+        ".dianying.fm"
+        ".fuliba.net"
+        ".feng.com"
+        ".github.com"
+        ".quanmama.com"
+        ".uszcn.com"
+        ".letsebuy.com"
+        ".sinaimg.cn"
+        ".upaiyun.com"
+        ".mgpyh.com"
         ".zoopda.com",
         ".yixun.com",
         ".jd.com",
